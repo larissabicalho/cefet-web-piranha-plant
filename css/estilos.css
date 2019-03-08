@@ -1,0 +1,15 @@
+
+h1 {
+  color:  limegreen;
+  font-family: "Times New Roman", cursive;
+  text-align: center;
+  font-size: 28px;
+}
+
+body {
+  background-image: url("../imagens/fundo.png");
+  font-family: "Arial";
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
